@@ -12,6 +12,8 @@
  *
  * ===== [13.0.7.4.11] 2 Chuwen 19 Pax G1 =====
  * It is The Day of The Artist: Favorable to augment all things.
+ *
+ * written February 2020 by Thomas Pinkava 
 */
 
 // The Goodman-Martinez-Thompson conversion constant
