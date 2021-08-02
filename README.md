@@ -1,14 +1,17 @@
 # Current Mayan Date
 
 What's the first piece of information any programmer needs to see upon opening their terminal emulator? 
-The last login time?
-The working directory?
+
+The last login time? The working directory?
+
 Wrong! It's the auspices of a long-dead jungle-dwelling civilization who hadn't the slightest notion of electronic computing.
 
 ...at least that's the case for some of us.
 If you, too, feel the need to know what the Mayans would have called the current date, then this widget is for you.
 
-**TODO Link to java calculator applet**
+
+
+*Want to see the associated hieroglyphs? Check out [my calculator website](https://polar-gorge-17146.herokuapp.com/)!*
 
 ## Installation
 
@@ -33,4 +36,3 @@ It is The Day of The Artist: Favorable to augment all things.
 ```
 
 
-*Want to see the associated hieroglyphs? Check out [my calculator website](https://polar-gorge-17146.herokuapp.com/)!*
