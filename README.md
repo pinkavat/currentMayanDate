@@ -13,6 +13,8 @@ If you, too, feel the need to know what the Mayans would have called the current
 
 *Want to see the associated hieroglyphs? Check out [my calculator website](https://polar-gorge-17146.herokuapp.com/)!*
 
+*For an old Java applet date-calculation suite, see [here](https://github.com/pinkavat/MayanDateCalculator).*
+
 ## Installation
 
 Download [currentMayanDate.c](currentMayanDate.c) and compile it with any C compiler.
